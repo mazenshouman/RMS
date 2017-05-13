@@ -97,7 +97,7 @@ int main()
                         data[j].rt=data[j].ex;//reset remaining time
                     }
                 }
-                cout << "   " << i << "\t\t\tP" << data[j].p_Id<< "hello "<<  endl;
+                cout << "   " << i << "\t\t\tP" << data[j].p_Id<< endl;
                 break;
             }
         }
